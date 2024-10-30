@@ -1,5 +1,7 @@
 # predicting-crew-size
 
+Write-up provided in [explore.ipynb](explore.ipynb).
+
 ## Objective
 Build a regressor that recommends the “crew” size for potential ship buyers.
 
